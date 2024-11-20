@@ -1,8 +1,12 @@
 a {
   text-align: center;
 }
+body {
+  background-color: rgb(117, 91, 91) !important;
+}
 
 .main {
+  background-color: rgb(238, 234, 229);
   max-width: 600px;
   border: solid 0.2px rgb(177, 177, 177);
   border-radius: 10px;
